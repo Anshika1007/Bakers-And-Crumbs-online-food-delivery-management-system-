@@ -1,4 +1,5 @@
 Bakers and Crumbs - E-commerce Bakery Website
+
 Bakers and Crumbs is a modern e-commerce platform designed for bakery enthusiasts to browse, filter, and purchase delicious bakery items. Built using the MERN stack, the application combines user-friendly design, secure authentication, and efficient admin management tools for seamless functionality.
 
 🔍 Features
